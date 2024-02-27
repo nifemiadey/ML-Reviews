@@ -1,0 +1,3 @@
+Read Me
+
+Text Mining & Setiment Analysis.ipynb:This is the python script file that contains the codes used for the text mining and sentiment analysis of the  chatgpt reviews dataset.
